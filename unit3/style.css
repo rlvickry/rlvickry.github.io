@@ -1,16 +1,28 @@
+*{margin:0; padding:0; box-sizing:border-box;}
+
+
 body { 
-	background: url("unit3images/stripes.png") repeat-x, url("unit3images/background.jpg") no-repeat;
-    background-size: cover; 
-    background-position: center; 
+	background: url("unit3/assets/stripes.png") repeat-x, url("unit3/assets/background.jpg") no-repeat;
+    background-size: auto, cover; 
     color: white;
     font-family: helvetica, arial, sans-serif;  
-    font-size: 20px; 
 }
+
 hr {
-	color: red;
-	width: 40px;
+	width:30px;
+	margin:20px 0 0 -1px;
+	border-color: #fc6e6e;
 }
-a {
-	padding: 10px;
-	margin: 
+
+
+p {
+	margin-top: 20px;
+}
+
+section {
+	margin:250px 0 0 100px;
+}
+
+#button {
+	margin-top: 20px;
 }
