@@ -2,7 +2,7 @@
 
 
 body { 
-	background: url("unit3/assets/stripes.png") repeat-x, url("unit3/assets/background.jpg") no-repeat;
+	background: url("../unit3/assets/stripes.png") repeat-x, url("../unit3/assets/background.jpg") no-repeat;
     background-size: auto, cover; 
     color: white;
     font-family: helvetica, arial, sans-serif;  
