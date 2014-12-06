@@ -1,7 +1,7 @@
 *{margin:0; padding:0; box-sizing:border-box;}
 
 
-div {
+body {
 	background:url("../unit4/unit4assets/background.jpg") no-repeat; 
 	background-size: cover; 
 }
