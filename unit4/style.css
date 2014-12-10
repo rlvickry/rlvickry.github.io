@@ -2,6 +2,6 @@
 
 
 body {
-	background:url("../unit4/unit4assets/background.png") no-repeat #151517; 
-	background-size: 75%; 
+	background:url("../unit4/unit4assets/background.jpeg") no-repeat #151517; 
+	background-size: cover; 
 }
