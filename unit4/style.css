@@ -2,6 +2,6 @@
 
 
 body {
-	background:url("../unit4/unit4assets/background.jpg") no-repeat; 
-	background-size: cover; 
+	background:url("http://thechalkboardmag.com/wp-content/uploads/2013/12/Bread.jpg") no-repeat; 
+	background-size: auto, cover; 
 }
