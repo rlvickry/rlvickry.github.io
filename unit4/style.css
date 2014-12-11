@@ -3,5 +3,5 @@
 
 body {
 	background:url("../unit4/unit4assets/background.jpg") no-repeat #19181e; 
-	background-size: 100%; 
+	background-size: auto, cover; 
 }
