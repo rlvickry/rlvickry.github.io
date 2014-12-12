@@ -34,7 +34,4 @@ p {
 	text-align: left;
 	margin-left: 14%;
 	margin-bottom: 60%; 
-	text-rendering: optimizeLegibility;
-	font-feature-settings: "kern" 1;
-	font-kerning: normal;
 }
