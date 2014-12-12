@@ -33,7 +33,7 @@ hr {
 
 p {
 	margin-bottom: 1em; 
-	width:390px;
+	width:350px;
 }
 
 a {
@@ -42,7 +42,6 @@ a {
 	font-weight: bold;
 	font-size: .8em;
 	color: white;
-	margin-top: 10%;
 	text-decoration:none;
 	width:180px;
 }
