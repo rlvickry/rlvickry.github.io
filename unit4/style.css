@@ -17,7 +17,7 @@ header {
 header img {
 	width:20%;
 }
-section { margin:10% 0 0 13%; }
+section { margin:10% 0 0 11%; }
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
@@ -27,7 +27,7 @@ h1 {
 
 hr {
 	width: 250px;
-	margin:1em 0 1em 10%;
+	margin:1em 0;
 	border-color: white;
 }
 
@@ -44,12 +44,12 @@ a {
 	color: white;
 	margin-top: 10%;
 	text-decoration:none;
+	width:180px;
 }
 
 .button {
 	border:3px solid #fff;
 	padding:20px 40px;
-	margin-left: 10%; 
 }
 
 
