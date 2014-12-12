@@ -17,8 +17,10 @@ h1 {
 }
 
 hr {
-	color: white;
 	width: 40px;
+	margin:20px 0 0 -1px;
+	border-color: white;
+	
 }
 
 p {
