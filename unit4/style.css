@@ -36,18 +36,17 @@ p {
 	margin-bottom: 50%; 
 }
 
-nav a {
+a {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
 	font-size: 70px;
 	color: white;
-	margin-top: 10%; 
 }
 
 .button {
 	border:3px solid #ffffff;
 	padding:20px 40px;
-	margin-top: 40%; 
+	margin-top: %; 
 	margin-left: 23.5%; 
 
 }
