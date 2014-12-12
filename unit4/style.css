@@ -14,6 +14,9 @@ header {
 	margin-top: 0.5%;
 	margin-left: 6%;
 }
+header img {
+	width:20%;
+}
 
 h1 {
 	font-family: 'Nixie One', cursive;
