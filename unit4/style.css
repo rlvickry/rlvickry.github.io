@@ -10,8 +10,8 @@ h1 {
 	font-family: 'Nixie One', cursive;
 	color: white;
 	font-size: 125px;
-	margin-top: 20%;
-	margin-left: 20%; 
+	margin-top: 5%;
+	margin-left: 5%; 
 
 }
 
@@ -19,6 +19,6 @@ p {
 	font-family: 'Quicksand', sans-serif;
 	color: white;
 	font-size: 100px;
-	margin-top: 35%;
-	margin-left: 20%;
+	margin-bottom: 35%;
+	margin-left: 5%;
 }
