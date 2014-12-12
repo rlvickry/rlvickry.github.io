@@ -6,14 +6,20 @@ body {
 	background-size: auto; 
 }
 
+section {
+	margin-top: 10%;
+	margin-left: 30%;
+
+}
+
 h1 {
 	font-family: 'Nixie One', cursive;
 	color: white;
-	font-size: 48px;
+	font-size: 125px;
 }
 
 p {
 	font-family: 'Quicksand', sans-serif;
 	color: white;
-	font-size: 20px;
+	font-size: 100px;
 }
