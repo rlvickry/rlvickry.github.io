@@ -37,9 +37,14 @@ p {
 }
 
 #button {
+	font-family: 'Nixie One', cursive;
+	font-weight: bold;
+	font-size: 55px;
+	color: white;
 	display:block;
-	border:3px solid #ffffff;
+	border:3px solid #fff;
 	padding:10px 20px;
+
 }
 
 
