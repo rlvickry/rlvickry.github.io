@@ -40,7 +40,7 @@ nav a {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
 	font-size: 70px;
-	font-color: white;
+	color: white;
 	margin-top: 10%; 
 }
 
@@ -48,7 +48,6 @@ nav a {
 	border:3px solid #fff;
 	padding:20px 40px;
 	margin-top: 10%; 
-	margin-bottom: 60%; 
 	margin-left: 23.5%; 
 
 }
