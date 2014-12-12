@@ -44,15 +44,6 @@ a {
 	margin-top: 10%; 
 }
 
-a:hover {
-	color: white;
-}
-
-nav a{
-	color:white;
-	display: inline;
-}
-
 .button {
 	border:3px solid #ffffff;
 	padding:20px 40px;
