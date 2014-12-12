@@ -9,9 +9,11 @@ body {
 h1 {
 	font-family: 'Nixie One', cursive;
 	color: white;
+	font-size: 48px;
 }
 
 p {
 	font-family: 'Quicksand', sans-serif;
 	color: white;
+	font-size: 20px;
 }
