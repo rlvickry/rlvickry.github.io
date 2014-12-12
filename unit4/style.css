@@ -41,11 +41,13 @@ nav a {
 	font-weight: bold;
 	font-size: 70px;
 	font-color: white;
+	margin-top: 10%; 
 }
 
 .button {
 	border:3px solid #fff;
 	padding:20px 40px;
+	margin-top: 10%; 
 	margin-bottom: 60%; 
 	margin-left: 23.5%; 
 
