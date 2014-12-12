@@ -5,3 +5,13 @@ body {
 	background:url("../unit4/unit4assets/background.jpg") no-repeat #19181e; 
 	background-size: auto; 
 }
+
+h1 {
+	font-family: 'Nixie One', cursive;
+	color: white;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
