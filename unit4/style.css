@@ -6,6 +6,11 @@ body {
 	background-size: auto, cover; 
 }
 
+header {
+	margin-top: 10%;
+	margin-left: 8%;
+}
+
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
