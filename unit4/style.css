@@ -41,6 +41,16 @@ a {
 	font-weight: bold;
 	font-size: 70px;
 	color: white;
+	margin-top: 10%; 
+}
+
+a:hover {
+	color: white;
+}
+
+nav a{
+	color:white;
+	display: inline;
 }
 
 .button {
