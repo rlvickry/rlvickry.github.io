@@ -36,12 +36,14 @@ p {
 	margin-bottom: 50%; 
 }
 
-#button {
+nav a {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	font-size: 55px;
+	font-size: 70px;
 	color: white;
-	display:block;
+}
+
+#button {
 	border:3px solid #fff;
 	padding:10px 20px;
 
