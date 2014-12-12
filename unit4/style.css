@@ -12,9 +12,6 @@ h1 {
 	font-size: 125px;
 	margin-top: 15%;
 	margin-left: 5%; 
-	margin-bottom: 10%;
-
-
 }
 
 p {
@@ -22,4 +19,5 @@ p {
 	color: white;
 	font-size: 90px;
 	margin-left: 5%;
+	margin-bottom: 60%; 
 }
