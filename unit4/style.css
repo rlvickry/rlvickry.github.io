@@ -38,7 +38,7 @@ p {
 
 /* mouse over link */
 a:hover {
-	color: #2c1e1a;
+	color: white;
 }
 
 a {
@@ -46,7 +46,7 @@ a {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
 	font-size: .8em;
-	color: white;
+	color: #2c1e1a;
 	text-decoration:none;
 	width:180px;
 }
