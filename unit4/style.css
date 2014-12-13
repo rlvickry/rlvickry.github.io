@@ -11,7 +11,6 @@ body {
 }
 
 header img {
-	margin-top: 0.2%;
 	margin-left: 5%;
 }
 
@@ -22,7 +21,7 @@ section {
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	font-size: 1.5em;
+	font-size: 1.4em;
 	margin-top: 3%;
 }
 
