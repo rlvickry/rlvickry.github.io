@@ -10,18 +10,19 @@ body {
 	text-align: left;
 }
 
+header {
+	margin-top: 0.5%;
+	margin-left: 6%;
+}
 header img {
-	margin-left: 5%;
+	width:20%;
 }
-
-section { 
-	margin:8% 0 0 11%; 
-}
-
+section { margin:10% 0 0 11%; }
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	font-size: 1.4em;
+	font-size: 1.62em;
+	margin-top: 5%;
 }
 
 hr {
