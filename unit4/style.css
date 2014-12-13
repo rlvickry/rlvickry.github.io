@@ -3,7 +3,11 @@
 
 body {
 	background:url("../unit4/unit4assets/background.jpg") no-repeat #19181e; 
-	background-size: auto, cover; 
+	background-size:cover; 
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+	font-size: 22px;
+	text-align: left;
 }
 
 header {
@@ -11,43 +15,41 @@ header {
 	margin-left: 6%;
 }
 
+section { 
+	margin:10% 0 0 11%; 
+}
+
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	color: white;
-	font-size: 130px;
-	text-align: left;
-	margin-top: 5%;
-	margin-left: 14%; 
+	font-size: 1.5em;
+	margin-top: 3%;
 }
 
 hr {
 	width: 250px;
-	margin-left: 23.5%;
+	margin:1em 0;
 	border-color: white;
 }
 
 p {
-	font-family: 'Quicksand', sans-serif;
-	color: white;
-	font-size: 80px;
-	text-align: left;
-	margin-left: 14%;
-	margin-bottom: 50%; 
+	margin-bottom: 1em; 
+	width:350px;
 }
 
 a {
+	display:block;
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	font-size: 70px;
+	font-size: .8em;
 	color: white;
-	margin-top: 10%; 
+	text-decoration:none;
+	width:180px;
 }
 
 .button {
 	border:3px solid #fff;
 	padding:20px 40px;
-	margin-left: 22%; 
 }
 
 
