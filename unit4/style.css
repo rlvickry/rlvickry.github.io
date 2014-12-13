@@ -16,14 +16,13 @@ header {
 }
 
 section { 
-	margin:4% 0 0 11%; 
+	margin:%9 0 0 11%; 
 }
 
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
 	font-size: 1.4em;
-	margin-top: 5%;
 }
 
 hr {
