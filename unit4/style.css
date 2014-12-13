@@ -15,7 +15,10 @@ header {
 	margin-left: 6%;
 }
 
-section { margin:10% 0 0 11%; }
+section { 
+	margin:10% 0 0 9%; 
+}
+
 h1 {
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
