@@ -45,9 +45,10 @@ a {
 	display:block;
 	font-family: 'Nixie One', cursive;
 	font-weight: bold;
-	font-size: .8em;
+	font-size: 1em;
 	color: white;
 	text-decoration:none;
+	text-align: center;
 	width:180px;
 }
 
