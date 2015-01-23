@@ -10,14 +10,14 @@ body {
 	display: block;
 	margin: 0 auto;
 	clear: both;
-	width: 24em;
+	width: 28em;
 }
 
 nav a{
 	font-size: 1em;
 	font-family: 'PT Sans', sans-serif;
 	text-decoration: none;
-	color: #white;
+	color: white;
 	padding: .5em;
 	margin: 1em;
 }
