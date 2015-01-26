@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 	clear: both;
 	width: 28em;
-	margin-top: 2em;
+	margin: 0 2em;
 }
 
 nav a {
@@ -21,6 +21,5 @@ nav a {
 	text-decoration: none;
 	color: white;
 	padding: 1.5em;
-	margin-top: 2em
-	margin-left: 2em;
+	margin: 0 2em;
 }
