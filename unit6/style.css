@@ -13,6 +13,11 @@ body {
 	width: 30em;
 }
 
+nav {
+	float: right;
+	margin-top: 2em; 
+}
+
 nav a {
 	font-size: 1em;
 	font-family: 'Quicksand', sans-serif;
