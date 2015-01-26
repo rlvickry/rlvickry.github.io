@@ -12,7 +12,7 @@ header {
 	width: 30em;
 }
 
-nav {
+nav a {
 	font-size: 1em;
 	font-family: 'Quicksand', sans-serif;
 	text-decoration: none;
