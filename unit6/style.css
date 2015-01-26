@@ -7,9 +7,9 @@ body {
 }
 
 #logo {
-	top: 0;
-	left: 0;
-	right: 0;
+	top: 2;
+	left: 4;
+	right: 4;
 	width: 28em;
 	margin: 4 4em;
 }
