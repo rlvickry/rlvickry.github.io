@@ -7,9 +7,9 @@ body {
 }
 
 #logo {
-	display: block;
-	margin: 0 auto;
-	clear: both;
+	top: 0;
+	left: 0;
+	right: 0;
 	width: 28em;
 	margin: 4 4em;
 }
@@ -20,5 +20,5 @@ nav a {
 	text-decoration: none;
 	color: white;
 	padding: 1.5em;
-	margin: 6 4em;
+	margin: 0 2em;
 }
