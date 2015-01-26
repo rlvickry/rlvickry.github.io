@@ -7,11 +7,10 @@ body {
 }
 
 #logo {
-	top: 2;
-	left: 4;
-	right: 4;
+	display: block;
+	margin: 0 auto;
+	clear: both;
 	width: 28em;
-	margin: 4 4em;
 }
 
 nav a {
