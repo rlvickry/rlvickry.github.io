@@ -13,8 +13,8 @@ body {
 }
 
 nav {
-	float: right;
-	margin-top: 2em; 
+	float: center;
+	margin: 3em 2em; 
 }
 
 nav a {
