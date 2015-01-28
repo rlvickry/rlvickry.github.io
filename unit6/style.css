@@ -1,6 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
-body {
+nav a {
 	font-size: 20px;
 	font-family: 'Quicksand', sans-serif;
 	text-decoration: none;
@@ -9,8 +9,7 @@ body {
 }
 
 #logo{
-	display: block;
-	margin: 0 auto;
+	margin: 0em auto;
 	width: 30em;
 }
 
