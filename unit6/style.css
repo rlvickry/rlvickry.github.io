@@ -1,22 +1,28 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
-
 body {
-	background: url("../unit6/unit6assets/background.jpg") no-repeat;
-	background-size: cover; 
+	font-size: 20px;
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+	color: white;
+	padding: 1.5em;
 }
 
-header {
+#logo{
 	display: block;
 	margin: 0 auto;
 	width: 30em;
 }
 
-nav a {
-	font-size: 1em;
-	font-family: 'Quicksand', sans-serif;
-	text-decoration: none;
-	color: white;
-	padding: 1.5em;
-	text-align: center;
+section {
+	max-width: 100em;
+	margin: 0em auto 4em;
+	
+}
+
+section#splash {
+	background: url("../unit6/unit6assets/background.jpg") no-repeat center;
+	background-size: cover; 
+	height: 100vh;
+	max-width: 100%;
 }
