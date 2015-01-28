@@ -1,7 +1,6 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 section {
-	max-width: 100em;
 	margin: 0em auto 4em;
 }
 
@@ -33,19 +32,17 @@ section#testimonials {
 }
 
 nav {
-	float: center;
-	margin-top: 0.5em;
+	float: right;
+	margin-top: 1.5em;
 }
 
 nav a {
 	color: white;
-	font-size: 16px;
+	font-size: 14px;
 	letter-spacing: .1em;
 	font-family: 'Quicksand', sans-serif;
 	text-decoration: none;
 	text-transform: uppercase;
 	padding: 1.5em 1.5em 1.5em 1.5em;
 	width: 30em;
-}
-
 }
