@@ -1,22 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
-nav a {
-	font-size: 20px;
-	font-family: 'Quicksand', sans-serif;
-	text-decoration: none;
-	color: white;
-	padding: 1.5em;
-}
-
-#logo{
-	margin: 0em auto;
-	width: 30em;
-}
-
 section {
 	max-width: 100em;
 	margin: 0em auto 4em;
-	
 }
 
 section#splash {
@@ -24,4 +10,42 @@ section#splash {
 	background-size: cover; 
 	height: 100vh;
 	max-width: 100%;
+}
+
+section#about {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+section#gallery {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+section#contact {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+section#testimonials {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+nav {
+	float: right;
+	margin-top: 1.5em;
+}
+
+nav a {
+	color: white;
+	font-size: 20px;
+	letter-spacing: .1em;
+	font-family: 'Quicksand', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 1.5em 1.5em 1.5em 1.5em;
+	width: 30em;
+}
+
 }
